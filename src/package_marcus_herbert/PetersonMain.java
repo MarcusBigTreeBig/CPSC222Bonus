@@ -20,3 +20,28 @@ public class PetersonMain {
         }
     }
 }
+
+/*
+Sample output:
+
+Finished 4
+Finished 1
+Finished 6
+Finished 5
+Finished 3
+Finished 2
+Finished 10
+Finished 8
+Finished 11
+Finished 9
+Finished 16
+Finished 0
+Finished 7
+Finished 12
+Finished 17
+Finished 13
+Finished 14
+Finished 15
+Finished 18
+Finished 19
+ */
